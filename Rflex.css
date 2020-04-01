@@ -42,7 +42,7 @@ li a:active{
 }
 body{
 	height: 100%;
-	background-image: url("/storage/emulated/0/Download/image.jpeg");
+	background-image: url("image.jpeg");
 	background-repeat:no-repeat;
 	background-position: center;
 	background-size: cover;
