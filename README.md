@@ -2,4 +2,4 @@
 
 
 
-https://omotayewo.github.io/Restaurant/Rflex,html
+https://omotayewo.github.io/Restaurant/Rflex.html
