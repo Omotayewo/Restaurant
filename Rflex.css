@@ -53,9 +53,20 @@ p a{
 marquee{
 	color: white;
 }
-footer{
-	border: none;
-	color: #f1f1f1;	
+.two{
+	background-color: black;
+}
+.L ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.L li a{
+	display: block;
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 30px 40px;
 }
 #logo{
 	text-align: center;
